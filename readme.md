@@ -9,8 +9,7 @@ https://arbitrar.vercel.app/
 ArbitrAR es una aplicación web desarrollada con Next.js que permite simular operaciones de arbitraje financiero y consultar cotizaciones en tiempo real. Incluye:
 
 - **Simulador**: Calcula cuántas operaciones de arbitraje necesitas para alcanzar un objetivo financiero, ingresando precios de compra/venta y capital inicial.
-- **Cotizaciones**: Muestra precios de bancos, criptomonedas y USDT en exchanges, obtenidos mediante una API pública.
-- **Diseño**: Interfaz responsiva con tema oscuro y personalización con carpinchos.
+- **Cotizaciones**: Muestra precios de bancos y USDT en exchanges, obtenidos mediante una API pública.
 
 ## Tecnologías
 
