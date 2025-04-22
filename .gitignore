@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Archivos generados por Next.js
+.next/
+out/
+
+# Variables de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de caché y logs
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# Archivos de build
+dist/
+build/
+
+# Archivos de pruebas
+coverage/
